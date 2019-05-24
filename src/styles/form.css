@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Cute+Font&display=swap');
+
+
+input,
+.textarea{
+    margin: 0 auto;
+    background-color: alicebluecolor;
+    display: block;
+    font-weight: bold;
+    font-family: 'Cute Font';
+    color: blue;
+    font-size: 2rem;    
+}
+
+.formulario{
+font-family: 'Cute Font';
+font-size: 2rem;
+
+}
+.boton{
+    color: black;
+    font-family: 'Cute Font';
+    font-size: 2rem;
+    border-color: color;
+    background-color: greenyellow;
+}
+
+.titulo{
+    color: greenyellow;
+    font-family: 'Cute Font';
+    
+}
+
+.parrafo{
+    color: black;
+    font-family: 'Cute Font';
+}
+
+
